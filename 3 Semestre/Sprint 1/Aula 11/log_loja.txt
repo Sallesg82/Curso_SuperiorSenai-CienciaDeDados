@@ -1,0 +1,4 @@
+[2026-02-20 21:48:54] Sistema iniciado.
+[2026-02-20 21:48:54] Dois produtos cadastrados.
+[2026-02-20 21:48:54] Sistema iniciado.
+[2026-02-20 21:48:54] Dois produtos cadastrados.
